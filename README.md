@@ -33,11 +33,18 @@ Call the font-awesome library from your html file:
 
 ```
 
+Note: we're using the [recommended assets structure for the universe](https://github.com/lingtalfi/NotationFan/blob/master/universe-assets.md).
+
+
 
 
 History Log
 =============
+    
+- 1.0.1 -- 2020-05-28
 
+    - update README.md
+    
 - 1.0.0 -- 2020-05-28
 
     - initial commit
