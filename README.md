@@ -23,6 +23,16 @@ Or just download it and place it where you want otherwise.
 
 
 
+Usage
+=========
+
+Call the font-awesome library from your html file:
+
+```html 
+<link rel="stylesheet" href="/libs/universe/Ling/FontAwesome/5.13/css/all.min.css">
+
+```
+
 
 
 History Log
