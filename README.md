@@ -40,7 +40,11 @@ Note: we're using the [recommended assets structure for the universe](https://gi
 
 History Log
 =============
-    
+
+- 1.0.2 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.1 -- 2020-05-28
 
     - update README.md
